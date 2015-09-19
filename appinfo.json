@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Joe Longstreet",
+    "longName": "Henlein",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Henlein",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "129f7ac0-283c-4975-bad3-f7552a52b795",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
